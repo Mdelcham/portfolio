@@ -693,12 +693,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
-.animation{
-  animation-duration: 3s;
-  animation-name: slidein;
 
-}
-#animation1{
+.animation1{
   animation-duration: 3s;
   animation-name: right-left;
 }
@@ -714,7 +710,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   }
 }
 
-#animation1{
+.animation1{
   animation-duration: 3s;
   animation-name: left-right; 
 }

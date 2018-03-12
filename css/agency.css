@@ -726,6 +726,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   }
 }
 
+.img-fluid{
+  height: 200px;
+  width:350px;
+}
 
 
 

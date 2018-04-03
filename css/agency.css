@@ -588,7 +588,6 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -728,7 +727,12 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   margin: 0 auto;
 }
 
-
+.img-fluid{
+  height: 200px;
+}
+.round-img{
+  height: auto;
+}
 
 
 

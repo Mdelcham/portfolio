@@ -734,5 +734,13 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   height: auto;
 }
 
+#email{
+  color:white;
+  margin: 0 auto;
+}
+
+#email span{
+  color: #fed136;
+}
 
 
